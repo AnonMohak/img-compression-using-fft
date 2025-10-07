@@ -11,7 +11,7 @@ Instead of storing pixel values directly, we represent an image using its **freq
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. **Convert Image → Frequency Domain**
    - The 2D Fast Fourier Transform (FFT) decomposes the image into its frequency components (sine and cosine waves).
