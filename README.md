@@ -129,7 +129,7 @@ Make sure you have:
 - `numpy`
 - `matplotlib`
 - `pillow`
-- `tqdm` *(for progress bar)
+- `tqdm` *(for progress bar)*
 - `opencv-python` *(optional, for extra image support)*
 
 Install dependencies:
